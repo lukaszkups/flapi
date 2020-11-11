@@ -1,0 +1,32 @@
+{
+  "name": "flapi",
+  "version": "0.0.1",
+  "description": "flat-file API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszkups/flapi.git"
+  },
+  "keywords": [
+    "flat",
+    "file",
+    "filesystem",
+    "flat",
+    "file",
+    "flat-file",
+    "db",
+    "database"
+  ],
+  "author": "lukaszkups",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukaszkups/flapi/issues"
+  },
+  "homepage": "https://github.com/lukaszkups/flapi#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1"
+  }
+}
